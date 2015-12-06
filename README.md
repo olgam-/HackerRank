@@ -1,2 +1,2 @@
 # HackerRank
-Some coding and algorithmic prov=blems I have solved on HackerRank
+Some coding and algorithmic problems I have solved on HackerRank
